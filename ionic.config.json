@@ -1,0 +1,8 @@
+{
+  "name": "myMenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+ 
+}
